@@ -24,7 +24,9 @@ Steuerung einer EVSE DIN oder anderer Ladepunkte für sofortiges laden, Überwac
 
 Unterstützt wird jedes EV das den AC Ladestandard unterstützt.
 
+hans peter hat nen rederei
 
+Jo ehi ho
 
 
 
